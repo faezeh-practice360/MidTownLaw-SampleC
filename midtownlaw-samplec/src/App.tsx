@@ -258,8 +258,8 @@ export default function App() {
               <p className="text-[#0B1B3D]/80 text-[15px] font-light leading-relaxed mb-6">
                 Our process is designed to be seamless, transparent, and completely risk-free. From your first free consultation to the final settlement or trial verdict, we handle the legal burden so you can focus on healing and moving forward.
               </p>
-              <div className="flex items-center gap-4">
-                <button className="bg-[#0B1B3D] text-white h-[46px] px-[32px] uppercase tracking-wider text-[12px] font-bold flex items-center justify-center hover:bg-[#0B1B3D]/90 transition-colors rounded-sm">
+              <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
+                <button className="bg-[#0B1B3D] text-white h-[46px] px-[32px] uppercase tracking-wider text-[12px] font-bold flex items-center justify-center whitespace-nowrap shrink-0 hover:bg-[#0B1B3D]/90 transition-colors rounded-sm">
                   GET STARTED
                 </button>
                 <span className="text-[#0B1B3D]/60 text-[12px]">
