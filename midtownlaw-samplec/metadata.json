@@ -1,0 +1,6 @@
+{
+  "name": "Law Firm Landing Page",
+  "description": "A premium, editorial-style law firm landing page featuring clean typography, services, timeline, client testimonials, and a custom contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
